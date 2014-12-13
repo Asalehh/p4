@@ -10,7 +10,7 @@ This project is a simple task manager app, which allow you to create and manage 
 The project built with Laravel php framework.
 
 ##DEMO
-Not yet ready, May be on live section.
+Demo has been performed on live section with Johanna at December 13 2014.
 
 
 ##External Libraries used
