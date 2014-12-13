@@ -1,0 +1,131 @@
+
+
+.container{
+    max-width:930px;
+
+}
+
+.pageContainer{
+    max-width:930px;
+    background:#fff;
+    border-right: 1px solid #efefef;
+    border-left: 1px solid #efefef;
+}
+
+.navSeparatorLeft{
+    border-left:1px solid #266386;
+}
+.navSeparatorRight{
+    border-left:1px solid #266386;
+}
+
+
+
+
+input[type=text], input[type=password], input[type=email]{
+
+
+    min-width: 250px;
+    min-height: 35px;
+    font-size: 14pt;
+    outline:none;
+    border: 1px solid
+}
+
+
+select, textarea{
+
+
+    min-height: 35px;
+    font-size: 14pt;
+    outline:none;
+    border: 1px solid
+
+}
+
+.smalltextarea{
+
+    max-width: 250px;
+    max-height: 90px;
+    font-size: 14pt;
+    outline:none;
+    border: 1px solid
+}
+
+.hourfield{
+
+    max-width: 50px;
+    max-height: 35px;
+    font-size: 14pt;
+    outline:none;
+    border: 1px solid
+}
+
+.taskTitle{
+
+    font-size:16pt;
+    font-weight: bold;
+}
+.taskCompleted{
+        font-size:16pt;
+    font-weight: bold;
+    color:gray;
+}
+
+.timegray{
+
+    font-size: 10pt;
+    color: #b3b3b3;
+}
+
+.time{
+
+    font-size: 10pt;
+}
+
+
+.table tr {
+    border-bottom: 1px solid #efefef;
+}
+
+
+.bgspan{
+
+    background:#181818;
+    padding:5px;
+    opacity:0.8;
+
+}
+.spanHomeTitle{
+    font-size:34pt;
+    color: #fff;
+}
+
+.spanHomeDesc{
+    font-size:25pt;
+    color: #fff;
+}
+
+.bodyGuest{
+
+    background: url(/images/home.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.homeTextSpacing{
+    margin-top: 220px;
+}
+
+.footerGuest{
+
+    margin-top: 120px;
+    
+}
+
+
+.footerGuest a{
+    color:#353535;
+}
